@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the design challenge for Cosmology! We're excited to see your creativity and skills in action. This challenge is an opportunity for you to showcase your ability to innovate while adhering to the stylistic elements of our existing website, [cosmology.zone](https://cosmology.zone), and our Brand Kit(https://cosmology.zone/company/brand-kit)
+Welcome to the design challenge for Cosmology! We're excited to see your creativity and skills in action. This challenge is an opportunity for you to showcase your ability to innovate while adhering to the stylistic elements of our existing website, [cosmology.zone](https://cosmology.zone), and our [Brand Kit](https://cosmology.zone/company/brand-kit)
 
 ## Challenge Overview
 
