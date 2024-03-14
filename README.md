@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the design challenge for Cosmology! We're excited to see your creativity and skills in action. This challenge is an opportunity for you to showcase your ability to innovate while adhering to the stylistic elements of our existing website, [cosmology.zone](https://cosmology.zone), and our [Brand Kit](https://cosmology.zone/company/brand-kit)
+Welcome to the design challenge for Cosmology! We're excited to see your creativity and skills in action. This challenge is an opportunity for you to showcase your ability to innovate while adhering to the stylistic elements of our existing website, [cosmology.zone](https://cosmology.zone), and our [Brand Kit](https://cosmology.zone/company/brand-kit) which is using [Interchain UI](https://cosmology.zone/products/interchain-ui)
 
 ## Challenge Overview
 
@@ -18,7 +18,7 @@ Your task is to design a page that could be added to our existing website. We ar
 
 ## Constraints
 
-- Your design should align with the style, colors, and overall branding of [cosmology.zone](https://cosmology.zone), and our [Brand Kit](https://cosmology.zone/company/brand-kit)
+- Your design should align with the style, colors, and overall branding of [cosmology.zone](https://cosmology.zone), and our [Brand Kit](https://cosmology.zone/company/brand-kit) and [Interchain UI](https://cosmology.zone/products/interchain-ui)
 - The final submission should be a Figma file, with all assets and fonts properly organized.
 - Ensure your design is responsive, considering how it will adapt to different device sizes.
 
